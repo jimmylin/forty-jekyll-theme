@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Services
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: '[Your Company Name] is a forward-thinking technology consulting firm dedicated to empowering businesses with innovative solutions. We partner with organizations to tackle complex challenges, optimize operations, and drive growth through cutting-edge technology. With a focus on collaboration and tailored strategies, we help our clients stay ahead in an ever-evolving digital landscape.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
